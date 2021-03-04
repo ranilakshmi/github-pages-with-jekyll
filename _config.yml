@@ -1,7 +1,6 @@
 title: My blog
-author:
-	name: Arya R N
-	email: aryakunjamma@gmail.com
+author: Arya R N
+email: aryakunjamma@gmail.com
 theme: minima
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
