@@ -1,8 +1,6 @@
 ---
 published: true
 ---
-## Modern Indian History
-
 Main parts of Modern Indian History
 - British Conquest
 - British Administration
