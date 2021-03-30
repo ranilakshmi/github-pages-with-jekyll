@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 ### WHO report says animals are likely source of COVID-19
